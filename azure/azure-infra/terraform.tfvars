@@ -1,5 +1,5 @@
 #Global
-project_prefix = "prefix"
+project_prefix = "skreg"
 
 #Azure INFRA
 azure_region = "southeastasia"
@@ -10,6 +10,6 @@ nap = false
 bigip = false
 bigip-cis = false
 aks-cluster = false
-azure-vm = false
-vm_public_ip = false
+azure-vm = true
+vm_public_ip = true
 
