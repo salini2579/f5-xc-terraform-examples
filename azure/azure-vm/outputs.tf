@@ -8,3 +8,4 @@ output "arcadia_port" {
    value       = 8080
    description = "Arcadia application opened port"
 }
+
